@@ -1,7 +1,11 @@
+## Create React App + Redux(Thunk) + Router
+
 This project is based on the [Create React App](https://github.com/facebook/create-react-app).
 but some additional skeletons were added for convenience
 
-## Integrations
+## Used packages
+### Base
+- create-react-app
 ### Styles
 - node-sass
 - bulma
